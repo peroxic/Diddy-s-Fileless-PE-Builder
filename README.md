@@ -2,5 +2,5 @@
 Fileless PE Builder running the dropped payload in memory.
 
 # Requirements
-* g++ or cl.exe
+* g++ C++ Compiler
 * g++ diddype.cpp -o diddype
